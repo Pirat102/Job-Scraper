@@ -1,6 +1,4 @@
 import requests
-import json
-from bs4 import BeautifulSoup 
 import re
 
 
@@ -10,19 +8,7 @@ def get_html():
     res = requests.get(url)
     return res.text
     
-    # with open('output.html', 'w') as file:
-    #     file.write(soup.prettify())
 
-
-## Open and work with HTML
-def open_html():
-    
-    with open("output.html", "r", encoding='utf-8') as f:
-        html_content = f.read()
-    
-        return html_content    
-    # soup = BeautifulSoup(html_content, "html.parser")
-    # return soup
 
 def get_jobs():
     job_offers = []
@@ -35,6 +21,7 @@ def get_jobs():
         job_offers.append(full_path)
     print(job_offers)
     
+get_jobs()    
     
 ## Job offers for junior python dev JustJoinIt ^^^^^
 
