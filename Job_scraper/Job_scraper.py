@@ -10,7 +10,7 @@ def get_html():
     
 
 
-def get_jobs():
+def get_jobs_net():
     job_offers = []
     html = get_html()
     path = 'href="/job-offer/'
@@ -21,7 +21,19 @@ def get_jobs():
         job_offers.append(full_path)
     print(job_offers)
     
-get_jobs()    
+def get_jobs_file():
+    job_offers = []
+    with open("output.html", "r", encoding='utf-8') as file:
+        html = file.read()
+    path = 'href="/job-offer/'
+    pattern = rf'{path}(.*?)"'
+    jobs_source = re.findall(pattern, html)
+    for job in jobs_source:
+        full_path = f"https://justjoin.it/job-offer/{job}"
+        job_offers.append(full_path)
+    print(job_offers)    
+
+get_jobs_file()    
     
 ## Job offers for junior python dev JustJoinIt ^^^^^
 
