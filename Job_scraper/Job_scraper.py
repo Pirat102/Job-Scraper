@@ -31,10 +31,16 @@ def get_jobs_file():
     for job in jobs_source:
         full_path = f"https://justjoin.it/job-offer/{job}"
         job_offers.append(full_path)
-    print(job_offers)    
+    return job_offers   
 
-get_jobs_file()    
-    
+jobs = get_jobs_file()  
+
+def save_jobs():
+    with open ("Jobs.txt", "w") as file:
+        for job in jobs:
+            file.write(f"{job}\n")
+          
+save_jobs()
 ## Job offers for junior python dev JustJoinIt ^^^^^
 
 ## TO DO
