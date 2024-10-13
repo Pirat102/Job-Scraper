@@ -23,10 +23,6 @@ def get_each_job_offer(jobs_list):
 
         return job_title, job_offer_link
     
-        #res = requests.get(job_offer_link)
-        ## HTML TO FILE
-        # with open("job.html", "a", encoding="UTF8") as f:
-        #     f.write(f"{res.text}\n")
 
 job_title, job_offer_link = get_each_job_offer(jobs_list)
 print(job_offer_link)

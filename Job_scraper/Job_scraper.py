@@ -4,11 +4,16 @@ import re
 
 url = "https://justjoin.it/job-offers/all-locations/python?experience-level=junior"
 
+
+def main():
+    jobs = get_jobs_from_file()
+    save_jobs_to_file()
+    
+
 def get_html():
     res = requests.get(url)
     return res.text
     
-
 
 def get_jobs_net():
     job_offers = []
@@ -21,7 +26,7 @@ def get_jobs_net():
         job_offers.append(full_path)
     print(job_offers)
     
-def get_jobs_file():
+def get_jobs_from_file():
     job_offers = []
     with open("output.html", "r", encoding='utf-8') as file:
         html = file.read()
@@ -33,14 +38,15 @@ def get_jobs_file():
         job_offers.append(full_path)
     return job_offers   
 
-jobs = get_jobs_file()  
 
-def save_jobs():
+def save_jobs_to_file():
     with open ("Jobs.txt", "w") as file:
         for job in jobs:
             file.write(f"{job}\n")
           
-save_jobs()
+
+
+
 ## Job offers for junior python dev JustJoinIt ^^^^^
 
 ## TO DO
