@@ -1,8 +1,8 @@
 # Job Scraper
 
-#### Video Demo: <URL HERE>
+#### Video Demo: [Youtube](https://youtu.be/5gmSG60yyfg)
 
-#### Description: My project is scrapping current job offers as junior Python developer from the website [JustJoinIt](https://justjoin.it/).
+#### Description: My project is scrapping current job offers as junior Python developer from the website [JustJoinIt](https://justjoin.it/)
 
 I wanted to learn more about web scraping, because it is a good tool for automating some tasks and collecting data. I tried to make my project simple, so I didn't use OOP or complex libraries. Even though it took me about 9 hours to complete, including reserach, coding and writing documentation. Before this project I worked on some games using pygame, but I did them while following tutorial or using GPT. I wanted to make something on my own, without following instructions from youtube or AI and there it is 😀
 
