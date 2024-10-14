@@ -1,6 +1,6 @@
 # Job Scraper
 
-#### Video Demo: [Youtube](https://youtu.be/5gmSG60yyfg)
+#### Video Demo: [Youtube](https://youtu.be/LDY-Mbp0nts)
 
 #### Description: My project is scrapping current job offers as junior Python developer from the website [JustJoinIt](https://justjoin.it/)
 
