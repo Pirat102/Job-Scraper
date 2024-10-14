@@ -61,7 +61,7 @@ def get_job_requirements(offers):
 
         
 def save_jobs_to_file(jobs):
-    with open ("Python_jobs.json", "w", encoding="UTF8") as file:
+    with open ("python_jobs.json", "w", encoding="UTF8") as file:
         json.dump(jobs, file, ensure_ascii=False, indent=4)
 
 
