@@ -1,4 +1,101 @@
 {
+    "Junior Python Engineer": {
+        "skills": {
+            "English": "advanced",
+            "Django": "junior",
+            "Databases": "junior",
+            "Python": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/adverity-junior-python-engineer-gdansk"
+    },
+    "Software Engineer II, Google Cloud": {
+        "skills": {
+            "Python": "junior",
+            "Java": "junior",
+            "C++": "junior",
+            "JavaScript": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-google-cloud-warszawa-python-7334c33e"
+    },
+    "Software Engineer II, Infrastructure, Google Cloud": {
+        "skills": {
+            "Python": "junior",
+            "Java": "junior",
+            "JavaScript": "junior",
+            "C++": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-infrastructure-google-cloud-warszawa-python"
+    },
+    "Software Engineer II, Service Provisioning EasyGCP": {
+        "skills": {
+            "Python": "junior",
+            "Java": "junior",
+            "C++": "junior",
+            "JavaScript": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-service-provisioning-easygcp-warszawa-python"
+    },
+    "Software Engineer II, Borg": {
+        "skills": {
+            "C++": "junior",
+            "Java": "junior",
+            "JavaScript": "junior",
+            "C": "junior",
+            "Python": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-borg-krakow-python"
+    },
+    "Software Engineer II, Backend, Messages": {
+        "skills": {
+            "Python": "junior",
+            "Java": "junior",
+            "Kotlin": "junior",
+            "Golang": "junior",
+            "SQL": "junior",
+            "C++": "junior",
+            "Spam Abuse": "junior",
+            "Detection": "junior"
+        },
+        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-backend-messages-krakow-python"
+    },
+    "Junior Software Engineer": {
+        "skills": {
+            "Git": "junior",
+            "Python 3.x": "junior",
+            "SQL": "junior",
+            "Apache Kafka": "nice to have",
+            "Docker": "nice to have",
+            "Linux": "nice to have",
+            "fastapi": "nice to have",
+            "Kubernetes": "nice to have",
+            "Java": "nice to have"
+        },
+        "link": "https://justjoin.it/job-offer/big-xyt-junior-software-engineer-wroclaw-python"
+    },
+    "Python Engineer (junior)": {
+        "skills": {
+            "PostgreSQL": "junior",
+            "IaC": "junior",
+            "CI/CD": "junior",
+            "Django": "junior",
+            "AWS services": "junior",
+            "SQL": "junior",
+            "Django Rest Framework": "junior",
+            "Python": "junior",
+            "Terraform": "nice to have",
+            "Payment Providers": "nice to have"
+        },
+        "link": "https://justjoin.it/job-offer/tango-python-engineer-junior--krakow-python-4f2b1807"
+    },
+    "Integration Software Engineer (onsite)": {
+        "skills": {
+            "REST API": "regular",
+            "Python": "regular",
+            "Linux": "nice to have",
+            "Scala": "nice to have"
+        },
+        "link": "https://justjoin.it/job-offer/avsystem-integration-software-engineer-onsite--krakow-python"
+    },
     "Junior Dev / Engineer Opportunity": {
         "skills": {
             "Java": "junior",
@@ -61,108 +158,11 @@
         },
         "link": "https://justjoin.it/job-offer/dxc-technology-analytics-graduate---grad-hiring-program-warszawa-python"
     },
-    "Junior Python Engineer": {
-        "skills": {
-            "English": "advanced",
-            "Django": "junior",
-            "Databases": "junior",
-            "Python": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/adverity-junior-python-engineer-warszawa"
-    },
     "Internship - Automotive Software Tester with Python": {
         "skills": {
             "Linux": "junior",
             "Python": "junior"
         },
         "link": "https://justjoin.it/job-offer/samsung-r-d-institute-poland-internship---automotive-software-tester-with-python-warszawa-python"
-    },
-    "Software Engineer II, Google Cloud": {
-        "skills": {
-            "Algorithms": "junior",
-            "Data": "junior",
-            "Software Development": "junior",
-            "Python": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-google-cloud-warszawa-python-b14785d1"
-    },
-    "Software Engineer II, Infrastructure, Google Cloud": {
-        "skills": {
-            "Python": "junior",
-            "Java": "junior",
-            "JavaScript": "junior",
-            "C++": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-infrastructure-google-cloud-warszawa-python"
-    },
-    "Software Engineer II, Service Provisioning EasyGCP": {
-        "skills": {
-            "Python": "junior",
-            "Java": "junior",
-            "C++": "junior",
-            "JavaScript": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-service-provisioning-easygcp-warszawa-python"
-    },
-    "Software Engineer II, Borg": {
-        "skills": {
-            "C++": "junior",
-            "Java": "junior",
-            "JavaScript": "junior",
-            "C": "junior",
-            "Python": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-borg-krakow-python"
-    },
-    "Software Engineer II, Backend, Messages": {
-        "skills": {
-            "Python": "junior",
-            "Java": "junior",
-            "Kotlin": "junior",
-            "Golang": "junior",
-            "SQL": "junior",
-            "C++": "junior",
-            "Spam Abuse": "junior",
-            "Detection": "junior"
-        },
-        "link": "https://justjoin.it/job-offer/google-software-engineer-ii-backend-messages-krakow-python"
-    },
-    "Junior Software Engineer": {
-        "skills": {
-            "Git": "junior",
-            "Python 3.x": "junior",
-            "SQL": "junior",
-            "Apache Kafka": "nice to have",
-            "Docker": "nice to have",
-            "Linux": "nice to have",
-            "fastapi": "nice to have",
-            "Kubernetes": "nice to have",
-            "Java": "nice to have"
-        },
-        "link": "https://justjoin.it/job-offer/big-xyt-junior-software-engineer-wroclaw-python"
-    },
-    "Integration Software Engineer (onsite)": {
-        "skills": {
-            "REST API": "regular",
-            "Python": "regular",
-            "Linux": "nice to have",
-            "Scala": "nice to have"
-        },
-        "link": "https://justjoin.it/job-offer/avsystem-integration-software-engineer-onsite--krakow-python"
-    },
-    "Python Engineer (junior)": {
-        "skills": {
-            "PostgreSQL": "junior",
-            "IaC": "junior",
-            "CI/CD": "junior",
-            "Django": "junior",
-            "AWS services": "junior",
-            "SQL": "junior",
-            "Django Rest Framework": "junior",
-            "Python": "junior",
-            "Terraform": "nice to have",
-            "Payment Providers": "nice to have"
-        },
-        "link": "https://justjoin.it/job-offer/tango-python-engineer-junior--krakow-python-4f2b1807"
     }
 }
